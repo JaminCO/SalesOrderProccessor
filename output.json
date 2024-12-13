@@ -1,0 +1,37 @@
+[
+  {
+    "OrderId": "SO001",
+    "CustomerName": "John Doe",
+    "Subtotal": 600,
+    "DiscountApplied": true,
+    "FinalTotal": 580.5
+  },
+  {
+    "OrderId": "SO002",
+    "CustomerName": "Jane Smith",
+    "Subtotal": 450,
+    "DiscountApplied": false,
+    "FinalTotal": 483.75
+  },
+  {
+    "OrderId": "SO003",
+    "CustomerName": "Jane Doe",
+    "Subtotal": 400,
+    "DiscountApplied": false,
+    "FinalTotal": 430
+  },
+  {
+    "OrderId": "SO004",
+    "CustomerName": "John Smith",
+    "Subtotal": 360,
+    "DiscountApplied": false,
+    "FinalTotal": 387
+  },
+  {
+    "OrderId": "SO005",
+    "CustomerName": "Jake Smith",
+    "Subtotal": 540,
+    "DiscountApplied": true,
+    "FinalTotal": 522.45
+  }
+]

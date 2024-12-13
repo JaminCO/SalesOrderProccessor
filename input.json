@@ -1,0 +1,43 @@
+[
+    {
+      "OrderId": "SO001",
+      "CustomerName": "John Doe",
+      "Items": [
+        { "ItemId": "I001", "Quantity": 2, "UnitPrice": 150.0 },
+        { "ItemId": "I002", "Quantity": 1, "UnitPrice": 300.0 }
+      ]
+    },
+    {
+      "OrderId": "SO002",
+      "CustomerName": "Jane Smith",
+      "Items": [
+        { "ItemId": "I001", "Quantity": 1, "UnitPrice": 150.0 },
+        { "ItemId": "I003", "Quantity": 3, "UnitPrice": 100.0 }
+      ]
+    },
+    {
+        "OrderId": "SO003",
+        "CustomerName": "Jane Doe",
+        "Items": [
+          { "ItemId": "I002", "Quantity": 2, "UnitPrice": 100.0 },
+          { "ItemId": "I005", "Quantity": 4, "UnitPrice": 50.0 }
+        ]
+      },
+      {
+        "OrderId": "SO004",
+        "CustomerName": "John Smith",
+        "Items": [
+          { "ItemId": "I004", "Quantity": 1, "UnitPrice": 160.0 },
+          { "ItemId": "I001", "Quantity": 1, "UnitPrice": 200.0 }
+        ]
+      },
+      {
+        "OrderId": "SO005",
+        "CustomerName": "Jake Smith",
+        "Items": [
+          { "ItemId": "I005", "Quantity": 4, "UnitPrice": 60.0 },
+          { "ItemId": "I003", "Quantity": 3, "UnitPrice": 100.0 }
+        ]
+      }
+  ]
+  
